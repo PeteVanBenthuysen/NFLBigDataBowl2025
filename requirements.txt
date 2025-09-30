@@ -1,0 +1,37 @@
+# NFL Big Data Bowl 2026 - Python Dependencies
+
+# Core data science libraries
+pandas>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.14.0
+scipy>=1.10.0
+scikit-learn>=1.3.0
+
+# Deep learning frameworks (optional - install based on preference)
+torch>=2.0.0
+tensorflow>=2.13.0
+
+# Jupyter notebook support
+jupyter>=1.0.0
+ipykernel>=6.22.0
+notebook>=6.5.4
+
+# Additional utilities
+pathlib2>=2.3.7
+tqdm>=4.65.0
+joblib>=1.2.0
+
+# Data visualization enhancements
+kaleido>=0.2.1  # For plotly static image export
+
+# Development tools
+black>=23.0.0  # Code formatting
+flake8>=6.0.0  # Linting
+pytest>=7.3.0  # Testing
+
+# Optional: For advanced modeling
+xgboost>=1.7.0
+lightgbm>=3.3.0
+catboost>=1.2.0
